@@ -1,4 +1,4 @@
-# Say Hello world from NodeJS.
+# Say Hello world in NodeJS.
 This program is to start http server in NodeJS
 ## How to Run?
 - Fire following command from shell/cmd from the project directory:  
