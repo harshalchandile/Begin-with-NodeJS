@@ -5,6 +5,6 @@ sudo chmod +x /var/hello_world/app.js
 ##Allows any users to write the app folder. Useful if using fs within the app
 sudo chmod go+w /var/hello_world
 ##Launches the express app
-sudo systemctl daemon-reload
-sudo systemctl start hello_world
-sudo systemctl enable hello_world
+sudo sysctl daemon-reload
+sudo sysctl start hello_world
+sudo sysctl enable hello_world

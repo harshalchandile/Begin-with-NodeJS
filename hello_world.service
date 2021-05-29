@@ -1,5 +1,5 @@
 [Unit]
-Description=yourAppName
+Description=hello_world
 After=network.target
 
 [Service]
